@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
 
 set -x
-docker kill jenkins-php-selenium-test
-docker rm jenkins-php-selenium-test
+docker kill my-apache-php-app
+docker rm my-apache-php-app
